@@ -12,7 +12,7 @@ To contribute:
 
 # Applications Open Now 
  | Name  |  Location |  Application Period |  Notes | Sponsorship |
- |---|---|---|---|
+ |---|---|---|---|---|
  |  [Amazon](https://www.amazon.jobs/zh/jobs/2114265/software-development-engineer-intern-2023-canada) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  | ✔ |
  |  [Ansys](https://careers.ansys.com/job/Vancouver-Spring-and-Summer-2023-Intern-Software-Development-%28Remote%29-BACHELORSMASTERS-Brit-V6E2M6/885799200/) | **🔒 Closed 🔒** Vancouver |  | Open to undergrad and masters. Need to be at least 3rd year if undergrad | ✔ |
  | [Microsoft](https://careers.microsoft.com/students/us/en/job/1368428/Software-Engineering-Intern-Opportunities-for-University-Students-Canada) | Vancouver |  | **🔒 Closed 🔒**  No Set Application Deadline | ✔ |
