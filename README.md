@@ -1,6 +1,8 @@
 # Canadian Tech Internships for Summer 2023 💼
 This is the updated the Crowdsourced list of Canadian tech companies that are hiring SWE interns for Summer 2023 that are interested in SWE.
 
+As a side note, we know a lot of internation care about the sponsorship issue of internship, so we list an added column to discuss about the Sponsorship Availability for every posting.
+
 Never too early to get started in your search! Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) and Jennifer Dryden who made a similar document for the US/Canada for formatting inspiration.
 
 ⚡️ Application openings are based on previous years information and may not apply to this years applications.
