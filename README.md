@@ -14,9 +14,16 @@ To contribute:
  | Name  |  Location |  Application Period |  Notes | Sponsorship |
  |---|---|---|---|---|
  |  [Amazon](https://www.amazon.jobs/zh/jobs/2114265/software-development-engineer-intern-2023-canada) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  | ✔ |
- |  [Ansys](https://careers.ansys.com/job/Vancouver-Spring-and-Summer-2023-Intern-Software-Development-%28Remote%29-BACHELORSMASTERS-Brit-V6E2M6/885799200/) | **🔒 Closed 🔒** Vancouver |  | Open to undergrad and masters. Need to be at least 3rd year if undergrad | ✔ |
+ |  [Ansys](https://careers.ansys.com/job/Vancouver-Spring-and-Summer-2023-Intern-Software-Development-%28Remote%29-BACHELORSMASTERS-Brit-V6E2M6/885799200/) | **🔒 Closed 🔒** Vancouver |  | Open to undergrad and masters. Need to be at least 3rd year if undergrad | ❔ |
  | [Microsoft](https://careers.microsoft.com/students/us/en/job/1368428/Software-Engineering-Intern-Opportunities-for-University-Students-Canada) | Vancouver |  | **🔒 Closed 🔒**  No Set Application Deadline | ✔ |
  | [Explore Microsoft](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) | Vancouver |  | No Set Application Deadline | ✔ |
- |  [Sentry](https://boards.greenhouse.io/sentry/jobs/4439666) | Toronto |  | **🔒 Closed 🔒** Need to be in Toronto or willing to relocate (with provided stipend) for the duration of the internship | ✔ |
+ |  [Sentry](https://boards.greenhouse.io/sentry/jobs/4439666) | Toronto |  | **🔒 Closed 🔒** Need to be in Toronto or willing to relocate (with provided stipend) for the duration of the internship | ❔ |
+ |  [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5268160003) | Vancouver | Rolling Applications | Started and currently be enrolled in a Computer Science, Software Engineering, or similar program in a University or College | ❔ |
+ |  [Goldman Sachs]( https://www.goldmansachs.com/careers/divisions/engineering/index.html) | Toronto | Rolling Applications | Click APPLY NOW Button of the target page | ❔ | 
 
 
+
+# Note
+❔ -> Unknown
+✔ -> Yes
+❌ -> No
