@@ -24,6 +24,6 @@ To contribute:
 
 
 # Note
-❔ -> Unknown
-✔ -> Yes
-❌ -> No
+❔ -> Unknown <br>
+✔ -> Yes <br>
+❌ -> No <br>
