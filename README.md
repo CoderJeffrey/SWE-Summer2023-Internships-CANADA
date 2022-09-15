@@ -22,7 +22,7 @@ To contribute:
  |  [Sentry](https://boards.greenhouse.io/sentry/jobs/4439666) | Toronto | **🔒 Closed 🔒** |  Need to be in Toronto or willing to relocate (with provided stipend) for the duration of the internship | ❔ |
  |  [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5268160003) | Vancouver | Rolling Applications | Started and currently be enrolled in a Computer Science, Software Engineering, or similar program in a University or College | ❔ |
  |  [Goldman Sachs]( https://www.goldmansachs.com/careers/divisions/engineering/index.html) | Toronto | Rolling Applications | Click APPLY NOW Button of the target page | ❔ | 
-
+ |  [Sentry](https://boards.greenhouse.io/sentry/jobs/4439666) | Toronto | Rolling Applications |  | ❔ | 
 
 
 # Note
